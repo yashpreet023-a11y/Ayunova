@@ -164,8 +164,9 @@ This project is open source and available under the MIT License.
 
 ## 👥 Authors
 
-- **Sahil Kumar** — [@Sahil-o9](https://github.com/Sahil-o9)
-- **Varun Sharma** — [@varunsharma42542-lgtm](https://github.com/varunsharma42542-lgtm)
+- **Samyak Baghel** 
+- **Varun Sharma** 
+- **Yashpreet Singh** 
 
 ---
 
