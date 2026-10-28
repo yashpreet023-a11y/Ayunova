@@ -71,7 +71,7 @@ AYUNOVA streamlines healthcare management by connecting patients with doctors, h
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sahil-o9/AYUNOVA.git
+  
    cd AYUNOVA
    ```
 
@@ -124,7 +124,6 @@ AYUNOVA/
 Deploy to **Vercel** in just a few clicks:
 
 1. Visit [Vercel New Project](https://vercel.com/new)
-2. Import the `Sahil-o9/AYUNOVA` repository
 3. Keep default build settings
 4. Click **Deploy**
 
@@ -173,7 +172,7 @@ This project is open source and available under the MIT License.
 ## 📞 Support
 
 Have questions or need help? Feel free to:
-- Open an [issue](https://github.com/Sahil-o9/AYUNOVA/issues)
+- Open an [issue]
 - Check existing documentation
 - Contact the project maintainers
 
