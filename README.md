@@ -1,8 +1,8 @@
-# 🏥 Mediex
+# 🏥 AYUNOVA
 
 > A modern, full-featured healthcare web application that empowers patients to manage their complete health journey in one unified platform.
 
-Mediex streamlines healthcare management by connecting patients with doctors, hospitals, and essential health resources. Whether booking appointments, analyzing medical reports, or accessing health guidance, Mediex makes it simple and accessible.
+AYUNOVA streamlines healthcare management by connecting patients with doctors, hospitals, and essential health resources. Whether booking appointments, analyzing medical reports, or accessing health guidance, AYUNOVA makes it simple and accessible.
 
 ---
 
@@ -71,8 +71,8 @@ Mediex streamlines healthcare management by connecting patients with doctors, ho
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sahil-o9/Mediex.git
-   cd Mediex
+   git clone https://github.com/Sahil-o9/AYUNOVA.git
+   cd AYUNOVA
    ```
 
 2. **Install dependencies:**
@@ -107,7 +107,7 @@ Mediex streamlines healthcare management by connecting patients with doctors, ho
 ## 📦 Project Structure
 
 ```
-Mediex/
+AYUNOVA/
 ├── src/
 │   ├── routes/          # File-based routing (TanStack Start)
 │   ├── components/      # Reusable UI components
@@ -124,7 +124,7 @@ Mediex/
 Deploy to **Vercel** in just a few clicks:
 
 1. Visit [Vercel New Project](https://vercel.com/new)
-2. Import the `Sahil-o9/Mediex` repository
+2. Import the `Sahil-o9/AYUNOVA` repository
 3. Keep default build settings
 4. Click **Deploy**
 
@@ -134,7 +134,7 @@ Your live application will be available at: `https://your-project-name.vercel.ap
 
 ## ⚠️ Important Note
 
-**Mediex is a demonstration project.**
+**AYUNOVA is a demonstration project.**
 
 - Patient data is stored in **browser local storage** only
 - Not connected to real hospital or medical databases
@@ -172,7 +172,7 @@ This project is open source and available under the MIT License.
 ## 📞 Support
 
 Have questions or need help? Feel free to:
-- Open an [issue](https://github.com/Sahil-o9/Mediex/issues)
+- Open an [issue](https://github.com/Sahil-o9/AYUNOVA/issues)
 - Check existing documentation
 - Contact the project maintainers
 
